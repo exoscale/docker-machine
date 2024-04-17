@@ -1,3 +1,6 @@
+> :warning: [Docker](https://docs.gitlab.com/runner/executors/docker_machine.html) deprecated Docker machine which is not going to be supported at Exoscale after [May 1st](https://changelog.exoscale.com/en/deprecation-api-v1-as-of-may-1st-2024-uVYHUVZ3).
+
+
 # Docker Machine
 
 ![](https://docs.docker.com/machine/img/logo.png)
